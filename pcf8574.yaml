@@ -34,5 +34,14 @@ housing@DIP16:
   suffix: P, AP
 
 housing@SO16:
-  outline: JEDEC MS-012 AC
+  pattern: SOIC
   suffix: T, AT
+
+  pitch: 1.27
+  bodyWidth: 7.4-7.6
+  bodyLength: 10.1-10.5
+  leadLength: 0.4-1.27
+  leadSpan: 9.2-9.6
+  leadWidth: 0.31-0.51
+  height: 2.25-2.45
+  leadCount: 16
